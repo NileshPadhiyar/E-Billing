@@ -14,5 +14,8 @@ Design Pattern used in Project:
 - Chain of Responsibility Pattern
 - Singleton Pattern
 
+Read Data from 
+- Read Json file to load Product
+- Read key from Web.config
 
 
